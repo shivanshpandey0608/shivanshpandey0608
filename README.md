@@ -116,7 +116,7 @@ Currently, I am exploring how **AI (LLMs)** can be integrated into modern applic
 
 ## 📊 GitHub Stats
 
-<"https://github-readme-stats-one-bice.vercel.app/api?username=shivanshpandey0608&show_icons=true&theme=tokyonight" />
+<"https://github-readme-stats.vercel.app/api?username=shivanshpandey0608&show_icons=true&theme=tokyonight" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshpandey0608&layout=compact&theme=vision-friendly-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
