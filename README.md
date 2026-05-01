@@ -20,11 +20,11 @@ I am a **Computer Science undergraduate** with a strong focus on **Data Structur
 
 Currently, I am exploring how **AI (LLMs)** can be integrated into modern applications to create **smart developer tools and learning systems**.
 
-* **🧠 Problem Solving:** Solved **500+ DSA problems** across platforms like LeetCode, Coding Ninja, AlgoZenith, CodeForces  
-* **⚙️ Backend Development:** Building APIs and scalable server-side systems using Node.js  
-* **🌐 Fullstack Capability:** Creating responsive UIs using React & Next.js  
-* **🤖 AI Integration:** Developing AI-powered applications using OpenAI APIs  
-* **📈 Optimization Focus:** Writing clean, efficient, and maintainable code  
+* **🧠 Problem Solving:** Solved **500+ DSA problems** across platforms like LeetCode, Coding Ninja, AlgoZenith, CodeForces.  
+* **⚙️ Backend Development:** Building APIs and scalable server-side systems using Node.js.  
+* **🌐 Fullstack Capability:** Creating responsive UIs using React & Next.js.  
+* **🤖 AI Integration:** Developing AI-powered applications using OpenAI APIs.  
+* **📈 Optimization Focus:** Writing clean, efficient, and maintainable code.  
 
 ---
 
