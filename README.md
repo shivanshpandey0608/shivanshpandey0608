@@ -1,115 +1,145 @@
-🚀 Shivansh Pandey
+<div align="center">
 
-Software Engineer | Backend & AI-Focused Developer | DSA Enthusiast
+# Hi 👋, I'm Shivansh Pandey
+### Software Engineer | Backend-Focused | AI Enthusiast | DSA Practitioner
 
-📍 Kanpur, India
-📧 pandeyarpit28212@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/shivansh-pandey-35364a245])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pandeyarpit28212@gmail.com)
 
-Passionate about building scalable backend systems, solving complex algorithmic problems, and integrating AI into real-world applications.
+---
 
-🚀 About Me
+> **Passionate about solving complex problems using scalable backend systems, DSA, and AI-powered applications.**
 
-I am a Computer Science undergraduate with a strong focus on Data Structures, Algorithms, and Backend Development. I enjoy designing efficient systems and building products that combine performance, scalability, and intelligent automation.
+</div>
 
-Currently, I am exploring how AI (LLMs) can be integrated into modern applications to create smarter developer tools and learning systems.
+---
 
-🧠 Solved 500+ DSA problems across competitive platforms
-⚙️ Strong in backend architecture & API design
-🤖 Building AI-powered applications using OpenAI APIs
-🌐 Fullstack capable with React & Next.js
-📈 Focused on performance optimization & clean code
-🏗️ What I Do
-⚙️ Backend & System Design
-Build scalable APIs using Node.js & Express
-Design efficient server-side logic and data flow
-Focus on low latency & optimized performance
-🌐 Fullstack Development
-Develop responsive UIs using React & Next.js
-Manage state and build seamless user experiences
-Deploy projects using modern workflows
-🤖 AI Integration
-Work with OpenAI APIs for intelligent features
-Build AI-powered tools like coding assistants & learning systems
-Explore LLM-based workflows & automation
-🛠️ Tech Stack
-⚙️ Backend
-Node.js, Express.js
-REST APIs
-🗄️ Databases
-MongoDB
-MySQL
-🎨 Frontend
-React.js
-Next.js
-Tailwind CSS
-🤖 AI & Tools
-OpenAI API
-pdf.js
-Chrome Extensions
-💻 Languages
-C++, Java, Python
-JavaScript, SQL
-C
-🔧 Tools
-Git & GitHub
-VS Code
-Postman
-🔥 Featured Projects
-🚀 FlashCard Engine
+## 🚀 About Me
 
-AI-powered learning system that converts PDFs into flashcards
+I am a **Computer Science undergraduate** with a strong focus on **Data Structures & Algorithms** and **Backend Development**. I enjoy building efficient, scalable systems and developing applications that combine **performance, intelligence, and real-world usability**.
 
-📄 Converts PDFs → Flashcards using AI
-🧠 Implements Spaced Repetition (SM-2 algorithm)
-⚡ Optimized for low latency & cost efficiency
-🔐 Secure architecture using Next.js API routes
+Currently, I am exploring how **AI (LLMs)** can be integrated into modern applications to create **smart developer tools and learning systems**.
 
-Tech Stack: React, Next.js, Node.js, OpenAI API, Tailwind CSS
+* **🧠 Problem Solving:** Solved **500+ DSA problems** across platforms like LeetCode, Codeforces, and more  
+* **⚙️ Backend Development:** Building APIs and scalable server-side systems using Node.js  
+* **🌐 Fullstack Capability:** Creating responsive UIs using React & Next.js  
+* **🤖 AI Integration:** Developing AI-powered applications using OpenAI APIs  
+* **📈 Optimization Focus:** Writing clean, efficient, and maintainable code  
 
-🎨 Real-Time Whiteboard Application
+---
 
-Collaborative drawing platform
+## 🛠️ Tech Stack
 
-👥 Multi-user real-time interaction
-✏️ Tools: Pen, shapes, sticky notes, file sharing
-⚡ Built using HTML5 Canvas
+### ⚙️ Backend & Development
+- **Runtime & Frameworks:** Node.js, Express.js  
+- **Architecture:** REST APIs  
 
-Tech Stack: React, JavaScript, Tailwind CSS
+### 🗄️ Databases
+- **NoSQL:** MongoDB  
+- **Relational:** MySQL  
 
-🤖 AI Coding Assistant Chrome Extension
+### 🎨 Frontend
+- **Frameworks:** React.js, Next.js  
+- **Styling:** Tailwind CSS  
 
-Context-aware coding helper
+### 🤖 AI & Tools
+- OpenAI API  
+- pdf.js  
+- Chrome Extensions  
 
-💡 Provides AI assistance inside coding platforms
-🧠 Integrated OpenAI API
-🧩 Works seamlessly in SPAs
+### 💻 Languages
+- **Primary:** C++, JavaScript, Python  
+- **Others:** Java, C, SQL  
 
-Tech Stack: JavaScript, Chrome Extensions, OpenAI API
+### 🔧 Tools
+- Git & GitHub  
+- Postman  
+- VS Code  
 
-🧠 Core Skills
-Data Structures & Algorithms
-Object-Oriented Programming
-Database Management Systems
-Machine Learning Fundamentals
-Web Development
-🏆 Achievements
-🥇 Solved 500+ problems on platforms like LeetCode, Codeforces, HackerRank, Coding Ninjas & AlgoZenith
-📜 Certifications
-Python (Scaler)
-Data Analytics Essentials (Cisco)
-Web Development (100xDevs)
-Cyber Security (Great Learning)
-Salesforce Trailhead Agentblazer
-AlgoZenith Certifications
-💡 What I Focus On
-Building scalable backend systems
-Writing clean, maintainable code
-Solving complex DSA problems
-Integrating AI into real-world applications
-Optimizing performance
-📫 Connect With Me
-💼 LinkedIn: (Add your link here)
-💻 GitHub: (Add your link here)
-⚡ Fun Fact
+---
 
-I enjoy solving hard DSA problems and figuring out how to turn complex logic into real-world scalable systems 🚀
+## 🔥 Featured Projects
+
+### 🚀 FlashCard Engine
+- Built an **AI-powered web app** that converts PDFs into flashcards  
+- Implemented **Spaced Repetition (SM-2 algorithm)** for effective learning  
+- Optimized AI pipeline for **low latency & cost efficiency**  
+- Designed adaptive learning with **dynamic scheduling & feedback**  
+
+**Tech Stack:** React, Next.js, Node.js, OpenAI API, Tailwind CSS  
+
+---
+
+### 🎨 Whiteboard Application
+- Developed a **real-time collaborative whiteboard**  
+- Enabled multi-user drawing and interaction  
+- Implemented tools like pen, shapes, sticky notes, and file sharing  
+
+**Tech Stack:** React, JavaScript, HTML5 Canvas  
+
+---
+
+### 🤖 AI Coding Assistant Chrome Extension
+- Built a **context-aware AI coding assistant**  
+- Integrated OpenAI API for real-time help  
+- Designed seamless UI for SPA integration  
+
+**Tech Stack:** JavaScript, Chrome Extensions, OpenAI API  
+
+---
+
+## 🧠 Core Skills
+
+- Data Structures & Algorithms  
+- Object-Oriented Programming  
+- Database Management Systems  
+- Machine Learning Fundamentals  
+- Web Development  
+
+---
+
+## 🏆 Achievements
+
+- 🥇 Solved **500+ DSA problems** across platforms like LeetCode, Codeforces, HackerRank, Coding Ninjas & AlgoZenith  
+
+---
+
+## 📜 Certifications
+
+- AlgoZenith Certifications  
+- Salesforce Trailhead Agentblazer  
+- Web Development (100xDevs)  
+- Cyber Security (Great Learning)  
+- Python (Scaler)  
+- Data Analytics Essentials (Cisco)  
+
+---
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 💡 What I Focus On
+
+- Solving **complex DSA problems**  
+- Building **scalable backend systems**  
+- Developing **AI-powered applications**  
+- Writing **clean and optimized code**  
+- Improving **system performance**  
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: *(www.linkedin.com/in/shivansh-pandey-35364a245)*  
+- 💻 GitHub: *(https://github.com/shivanshpandey0608)*  
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy solving **challenging algorithmic problems** and turning them into **real-world scalable applications** 🚀  
