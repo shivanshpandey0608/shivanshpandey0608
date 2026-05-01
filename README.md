@@ -117,9 +117,9 @@ Currently, I am exploring how **AI (LLMs)** can be integrated into modern applic
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=shivanshpandey0608&show_icons=true&theme=tokyonight" />
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshpandey0608&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+![](https://github-readme-stats.shion.dev/api?username=shivanshpandey0608&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=shivanshpandey0608&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=shivanshpandey0608&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ---
 
 ## 💡 What I Focus On
