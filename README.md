@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hi 👋, I'm Shivansh Pandey
-### Software Engineer | Backend-Focused | AI Enthusiast | DSA Practitioner
+### Software Engineer | Full-Stack Developer  | AI Enthusiast | DSA Practitioner
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/shivansh-pandey-35364a245])
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pandeyarpit28212@gmail.com)
@@ -16,11 +16,11 @@
 
 ## 🚀 About Me
 
-I am a **Computer Science undergraduate** with a strong focus on **Data Structures & Algorithms** and **Backend Development**. I enjoy building efficient, scalable systems and developing applications that combine **performance, intelligence, and real-world usability**.
+I am a **Computer Science undergraduate** with a strong focus on **Data Structures & Algorithms** and **Full-Stack Development**. I enjoy building efficient, scalable systems and developing applications that combine **performance, intelligence, and real-world usability**.
 
 Currently, I am exploring how **AI (LLMs)** can be integrated into modern applications to create **smart developer tools and learning systems**.
 
-* **🧠 Problem Solving:** Solved **500+ DSA problems** across platforms like LeetCode, Codeforces, and more  
+* **🧠 Problem Solving:** Solved **500+ DSA problems** across platforms like LeetCode, Coding Ninja, AlgoZenith, CodeForces  
 * **⚙️ Backend Development:** Building APIs and scalable server-side systems using Node.js  
 * **🌐 Fullstack Capability:** Creating responsive UIs using React & Next.js  
 * **🤖 AI Integration:** Developing AI-powered applications using OpenAI APIs  
@@ -49,7 +49,7 @@ Currently, I am exploring how **AI (LLMs)** can be integrated into modern applic
 
 ### 💻 Languages
 - **Primary:** C++, JavaScript, Python  
-- **Others:** Java, C, SQL  
+- **Others:** Core Java, C, SQL 
 
 ### 🔧 Tools
 - Git & GitHub  
@@ -95,7 +95,7 @@ Currently, I am exploring how **AI (LLMs)** can be integrated into modern applic
 - Database Management Systems  
 - Machine Learning Fundamentals  
 - Web Development  
-
+- Artificial Intelligence
 ---
 
 ## 🏆 Achievements
@@ -109,17 +109,16 @@ Currently, I am exploring how **AI (LLMs)** can be integrated into modern applic
 - AlgoZenith Certifications  
 - Salesforce Trailhead Agentblazer  
 - Web Development (100xDevs)  
-- Cyber Security (Great Learning)  
-- Python (Scaler)  
+- Cyber Security (Great Learning)    
 - Data Analytics Essentials (Cisco)  
 
 ---
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+<"https://github-readme-stats-one-bice.vercel.app/api?username=shivanshpandey0608&show_icons=true&theme=tokyonight" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanshpandey0608&layout=compact&theme=vision-friendly-dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
